@@ -11,3 +11,9 @@ and displayed as a progress/warning bar. Remember anything above 0.08% is unsafe
 This app is targeted for android API 28, meaning it works best on a Pixel 2XL running the latest release of Android (Android 9 at time of release).
 
 **This app has not been uploaded to the Google Play Store, and no unnecessary permissions are requested.**
+
+
+
+
+
+Developed by: Luke Atlas, Egor Badich, Lorenzo Dubrocq, Nicole Elbeery, and Vibhav Jha
